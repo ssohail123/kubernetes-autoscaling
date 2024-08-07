@@ -1,3 +1,4 @@
+#get inside the pod using kubectl exec -it pod podname
 apt update -y
 apt install stress -y
 stress --cpu 2 --timeout 60s
