@@ -1,6 +1,3 @@
-Here’s an updated README draft focusing on what you achieved and how it relates to real-world scenarios:
-
----
 
 # Kubernetes Cluster Setup and Autoscaling Project
 
